@@ -1,7 +1,7 @@
 def my_hash
   radiohead = {
-    "album" => "kid a"
-    "metacritic" => 100
+  "album" => "kid a"
+  "metacritic" => 100
   }
 end
 
